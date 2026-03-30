@@ -21,7 +21,7 @@ const TechStack: React.FC = () => {
     {
       name: 'Unity Engine',
       icon: <Smartphone size={24} />,
-      color: '#ffffff',
+      color: '#00BFFF',
       description: 'Cross-platform game development with 2D, 3D, VR/AR capabilities',
       proficiency: 92
     },
@@ -42,7 +42,7 @@ const TechStack: React.FC = () => {
     {
       name: 'Meta Quest SDK',
       icon: <Smartphone size={24} />,
-      color: '#1f1f1f',
+      color: '#9370DB',
       description: 'VR game development for Meta Quest 2, 3, and Pro',
       proficiency: 90
     },
