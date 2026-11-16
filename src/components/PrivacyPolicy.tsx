@@ -195,8 +195,8 @@ const PrivacyPolicy: React.FC = () => (
               <strong>Delete Support Correspondence:</strong> If you have emailed us for customer
               or technical support and wish to have your email address and messages deleted, email
               us at{' '}
-              <a className={externalLinkClass} href="mailto:support@tinytopplegame.com">
-                support@tinytopplegame.com
+              <a className={externalLinkClass} href="mailto:arifa2908@gmail.com">
+                arifa2908@gmail.com
               </a>{' '}
               with the subject line &quot;Delete My Data&quot;. We will permanently delete your
               records within 30 days.
