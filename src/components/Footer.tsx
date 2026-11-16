@@ -73,6 +73,12 @@ const Footer: React.FC = () => {
               >
                 Projects
               </Link>
+              <Link
+                to="/privacy-policy"
+                className="text-gray-600 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors text-left sm:text-center"
+              >
+                TinyTopple MR Privacy Policy
+              </Link>
               <button
                 onClick={() => handleNavClick('#experience')}
                 className="text-gray-600 hover:text-primary-600 dark:text-gray-400 dark:hover:text-primary-400 transition-colors text-left sm:text-center"

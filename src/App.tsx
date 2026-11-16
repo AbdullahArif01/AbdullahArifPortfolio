@@ -13,6 +13,7 @@ import Footer from './components/Footer';
 import BackToTop from './components/BackToTop';
 import ProjectsList from './components/ProjectsList';
 import ProjectDetail from './components/ProjectDetail';
+import PrivacyPolicy from './components/PrivacyPolicy';
 
 function HomePage() {
   return (
@@ -39,6 +40,7 @@ function App() {
               <Route path="/" element={<HomePage />} />
               <Route path="/projects" element={<ProjectsList />} />
               <Route path="/projects/:projectId" element={<ProjectDetail />} />
+              <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             </Routes>
           </main>
           <Footer />
